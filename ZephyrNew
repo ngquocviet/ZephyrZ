@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/namnnni2/Grow-a-garden/refs/heads/main/Petspamer.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ngquocviet/DarkPetSpawmner/refs/heads/main/Darknew2025"))()
